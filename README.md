@@ -1,11 +1,5 @@
 <h1>Hello, I'm Mustafa! </h1>
-<b>Server Repair Technician
-
-IT student at the University of Texas at Dallas  
-
- 
-
-I enjoy creating homelabs and projects that simulate real-world IT environments, focusing on system administration, networking, hardware infrastructure.<b>
+<b>I build hands-on labs focused on system administration, networking, and enterprise IT environments.<b>
 
 <h2>👨‍💻 IT/Networking Projects:</h2>
 
