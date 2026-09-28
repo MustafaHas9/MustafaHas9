@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 IT/Networking Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
+- <b>Active Directory Lab</b>
   - [AD Homelab](https://github.com/MustafaHas9/Active-Directory-Home-Lab)
 - <b>Active Directory Network Monitoring Server</b>
   - [Active Directory Monitoring Server](https://github.com/MustafaHas9/Raspberry-Pi-Network-Monitoring-Server)
