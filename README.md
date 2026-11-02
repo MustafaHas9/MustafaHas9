@@ -12,7 +12,7 @@
 <h2>Infra/Networking Projects:</h2>
 
 - <b><a href="https://github.com/MustafaHas9/Raspberry-Pi-Network-Monitoring-Server">Raspberry Pi Network Monitoring Server</a></b>
-  - An earlier Raspberry Pi project focused on Linux administration and network monitoring.
+  - An Raspberry Pi project focused on Linux administration and network monitoring for my Active Directory Lab.
 
 - <b><a href="https://github.com/MustafaHas9/Raspberry-Pi-Infrastructure-Lab">Raspberry Pi Infrastructure Homelab</a></b>
   - A Debian-based home server running Dockerized infrastructure and network services, including Pi-hole, Jellyfin, Homepage, and SMB-backed media storage. Actively working on this right now.
