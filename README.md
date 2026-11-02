@@ -16,6 +16,9 @@
 
 - <b><a href="https://github.com/MustafaHas9/Raspberry-Pi-Infrastructure-Lab">Raspberry Pi Infrastructure Homelab</a></b>
   - A Debian-based home server running Dockerized infrastructure and network services, including Pi-hole, Jellyfin, Homepage, and SMB-backed media storage. Actively working on this right now.
+ 
+- <b><a href="https://github.com/MustafaHas9/Cisco-Networking-Lab">Cisco Network Labs</a></b>
+  - Cisco network labs I created in Packet Tracer while studying for the CCNA exam.
 
 <h2>Currently Working On:</h2>
 
