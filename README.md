@@ -19,7 +19,7 @@
   - An Raspberry Pi project focused on Linux administration and network monitoring for my Active Directory Lab.
 
 - <b><a href="https://github.com/MustafaHas9/Raspberry-Pi-Infrastructure-Lab">Raspberry Pi Infrastructure Homelab</a></b>
-  - A Debian-based home server running Dockerized infrastructure and network services, including Pi-hole, Jellyfin, Homepage, and SMB-backed media storage. Actively working on this right now.
+  - A Debian-based home server running Dockerized infrastructure and network services, including Pi-hole, Jellyfin, Homepage, and SMB-backed media storage.
  
 - <b><a href="https://github.com/MustafaHas9/Cisco-Networking-Lab">Cisco Network Labs</a></b>
   - Cisco network labs I created in Packet Tracer while studying for the CCNA exam.
